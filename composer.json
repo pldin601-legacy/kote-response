@@ -1,0 +1,21 @@
+{
+  "name": "kote/http-response",
+  "type": "library",
+  "licence": "MIT",
+  "description": "Kote HTTP Response Component",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Roman Gemini",
+      "email": "roman_gemini@ukr.net"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Kote\\": "src/Kote/"
+    }
+  }
+}
